@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **roma.vertiba@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://t.me/wertiba"></h3>
 <p align="left">
 </p>
 
