@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TelegramMotivationBot](https://github.com/Wertiba/TelegramMotivation)
 
-- 🌱 I’m currently learning **Algoritmes and data structures**
+- 🌱 I’m currently learning **Machine Learning algoritmes**
 
 - 📫 How to reach me **roma.vertiba@gmail.com**
 
