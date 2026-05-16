@@ -25,7 +25,7 @@
 - 💼 Backend developer · ML explorer
 - 🌱 Currently learning **Kotlin and Kaggle competitions** (I'm looking for teammates)
 - 📝 Six months of work at **ECM Consulting** as a test automation engineer
-- 🏅 Kaggle Notebooks Expert · [romanrozen](https://kaggle.com/romanrozen)
+- 🏅 Kaggle Notebooks Expert
 
 ---
 
@@ -68,7 +68,7 @@ building, and learning. If you want to collaborate — you're welcome to join)
 
 | Year | Event                                   | Result               | Artifacts |
 |------|-----------------------------------------|----------------------|-----------|
-| 2026 | **DANO spring SPb hackathon**           | 🥇 ablosut 1st place | [Code](https://www.kaggle.com/code/romanrozen/dano-hackathon-top-1-solution) · [Certificate](https://drive.google.com/file/d/1XWZV3PbJL9bGodDaA0WlD3gAJ1-SsZ9-/view?usp=sharing) |
+| 2026 | **DANO spring SPb hackathon**           | 🥇 Ablosut 1st place | [Code](https://www.kaggle.com/code/romanrozen/dano-hackathon-top-1-solution) · [Certificate](https://drive.google.com/file/d/1XWZV3PbJL9bGodDaA0WlD3gAJ1-SsZ9-/view?usp=sharing) |
 | 2026 | **NTO "Big data and machine learning"** | 🏆 Prizer            | [Certificate](https://drive.google.com/file/d/1ozrvpvBBf5gh0vZXu5XRnI0VNJXQ6Ab3/view?usp=sharing) |
 | 2026 | **AI Business SPb hackathon**           | 🥉 3 Place by case   | [Code](https://github.com/Wertiba/AI-Business-SPB-Hackathon-Backend) · [Certificate](https://drive.google.com/file/d/1fp_HLJ1iUOyWtAY69ypcLMZJKL_k2Nm_/view?usp=sharing) |
 | 2026 | **International SWE olympiad PROD**     | Finalist             | [Code](https://github.com/Wertiba/Prod-Individual-track-2026)|
