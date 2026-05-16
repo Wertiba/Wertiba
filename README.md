@@ -14,7 +14,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@wertiba-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wertiba)
 [![Kaggle](https://img.shields.io/badge/Kaggle-romanrozen-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/romanrozen)
 [![LeetCode](https://img.shields.io/badge/LeetCode-wertiba-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/wertiba)
-[![Channel](https://img.shields.io/badge/Channel-wertibachannel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wertibachannel)
 
 </div>
 
@@ -47,9 +46,9 @@ building, and learning. If you want to collaborate — you're welcome to join)
 
 ## Pet Projects
 
-| Project              | Stack                       | Description                                                                               | Links |
-|----------------------|-----------------------------|-------------------------------------------------------------------------------------------|-------|
-| **[Motivation bot]** | `Python` `Telebot` `Ollama` | Parse events from google calendar and gives you personal motivation messages based on LLM | [Code](https://github.com/Wertiba/TelegramMotivation) |
+| Project            | Stack                       | Description                                                                               | Links |
+|--------------------|-----------------------------|-------------------------------------------------------------------------------------------|-------|
+| **Motivation bot** | `Python` `Telebot` `Ollama` | Parse events from google calendar and gives you personal motivation messages based on LLM | [Code](https://github.com/Wertiba/TelegramMotivation) |
 
 
 ---
@@ -58,11 +57,10 @@ building, and learning. If you want to collaborate — you're welcome to join)
 
 > Projects built while studying — courses, tutorials, self-driven experiments
 
-| Project                   | Course / Source   | Description                | Links |
-|---------------------------|-------------------|----------------------------|-------|
-| **[Deepfake classifier]** | [Yandex Lyceum](https://drive.google.com/file/d/1cLDdp0M6r7yH1lqPMDXXFQmyX6yVJiBg/view?usp=sharing) | CNN && ResNET              | [Notebook](https://www.kaggle.com/code/romanrozen/deepfake-classifier) |
-| **[Project Name]**        | [Course Name](#)  | What you built and learned | [Code](#) |
-| **[Project Name]**        | Self-study        | What you built and learned | [Code](#) |
+| Project                 | Course / Source   | Description                | Links |
+|-------------------------|-------------------|----------------------------|-------|
+| **Deepfake classifier** | [Yandex Lyceum](https://drive.google.com/file/d/1cLDdp0M6r7yH1lqPMDXXFQmyX6yVJiBg/view?usp=sharing) | CNN && ResNET              | [Notebook](https://www.kaggle.com/code/romanrozen/deepfake-classifier) |
+
 
 ---
 
@@ -99,9 +97,9 @@ building, and learning. If you want to collaborate — you're welcome to join)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wertiba&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wertiba&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 </div>
 
