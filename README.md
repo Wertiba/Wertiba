@@ -22,7 +22,7 @@
 ## About me
 
 - 🎓 Still in high school · already shipping code
-- 💼 Backend developer · ML explorer
+- 💼 Backend developer · ML researcher
 - 🌱 Currently learning **Kotlin and Kaggle competitions** (I'm looking for teammates)
 - 📝 Six months of work at **ECM Consulting** as a test automation engineer
 - 🏅 Kaggle Notebooks Expert
