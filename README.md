@@ -97,9 +97,7 @@ building, and learning. If you want to collaborate — you're welcome to join)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wertiba&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wertiba&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wertiba&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
 </div>
 
