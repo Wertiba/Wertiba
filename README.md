@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
 ```
 
-### Backend dev · ML explorer · Kaggle notebooks expert
+### Backend dev · ML researcher · Kaggle notebooks expert
 
 [![Telegram](https://img.shields.io/badge/Telegram-@wertiba-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wertiba)
 [![Kaggle](https://img.shields.io/badge/Kaggle-romanrozen-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/romanrozen)
