@@ -16,7 +16,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36CFC9,25:1E3A5F,50:0B0B2B,75:B91372,100:FF6B35&height=180&section=header&text=Roma%20Rozen&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Backend%20Dev%20%C2%B7%20ML%20Researcher&descAlignY=52&descSize=18" width="100%"/>
+<a href="https://t.me/wertiba">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36CFC9,25:1E3A5F,50:0B0B2B,75:B91372,100:FF6B35&height=180&section=header&text=Roma%20Rozen&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Backend%20Dev%20%C2%B7%20ML%20Researcher&descAlignY=52&descSize=18" width="100%" alt="header wave"/>
+</a>
 
 <a href="https://t.me/wertiba">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=36CFC9&center=true&vCenter=true&width=600&lines=Backend+developer;ML+researcher;Kaggle+Contributor;Still+in+high+school+%E2%80%94+already+shipping+code" alt="typing"/>
@@ -147,6 +149,8 @@ Monitoring · containers · version control · API testing
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,25:B91372,50:0B0B2B,75:1E3A5F,100:36CFC9&height=110&section=footer" width="100%"/>
+<a href="https://t.me/wertiba">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,25:B91372,50:0B0B2B,75:1E3A5F,100:36CFC9&height=110&section=footer" width="100%" alt="footer wave"/>
+</a>
 
 </div>
