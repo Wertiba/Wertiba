@@ -1,19 +1,30 @@
+<!-- ─────────────────────────────────────────────────────────────
+     Wertiba/Wertiba/README.md
+
+     Third-party image services used below (all free, no signup):
+       capsule-render     · header / footer wave banners (icefire gradient)
+       readme-typing-svg  · animated subtitle
+       skillicons.dev     · stack icons
+       shields.io         · badges
+
+     Easy edits:
+       - Name / tagline on the banner  -> edit the `text=` / `desc=` params below
+       - Typing lines                  -> edit the `lines=` param (separate with `;`)
+       - Stack icons                   -> edit the `i=` param, see https://skillicons.dev
+       - Everything else is plain markdown tables, edit directly
+     ───────────────────────────────────────────────────────── -->
+
 <div align="center">
 
-```
-██████╗  ██████╗ ███╗   ███╗ █████╗
-██╔══██╗██╔═══██╗████╗ ████║██╔══██╗
-██████╔╝██║   ██║██╔████╔██║███████║
-██╔══██╗██║   ██║██║╚██╔╝██║██╔══██║
-██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36CFC9,25:1E3A5F,50:0B0B2B,75:B91372,100:FF6B35&height=180&section=header&text=Roma%20Rozen&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Backend%20Dev%20%C2%B7%20ML%20Researcher&descAlignY=52&descSize=18" width="100%"/>
 
-### Backend dev · ML researcher · Kaggle notebooks expert
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=36CFC9&center=true&vCenter=true&width=600&lines=Backend+developer;ML+researcher;Kaggle+Contributor;Still+in+high+school+%E2%80%94+already+shipping+code" alt="typing"/>
+
+<br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@wertiba-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wertiba)
 [![Kaggle](https://img.shields.io/badge/Kaggle-romanrozen-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/romanrozen)
-[![LeetCode](https://img.shields.io/badge/LeetCode-wertiba-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/wertiba)
+[![Habr](https://img.shields.io/badge/Habr-wertiba-65A3BE?style=flat-square&logo=habr&logoColor=white)](https://habr.com/ru/users/wertiba/)
 
 </div>
 
@@ -23,9 +34,9 @@
 
 - 🎓 Still in high school · already shipping code
 - 💼 Backend developer · ML researcher
-- 🌱 Currently learning **Kotlin and Kaggle competitions** (I'm looking for teammates)
+- 🌱 Currently learning **NLP algorithms && agent sequrity**
 - 📝 Six months of work at **ECM Consulting** as a test automation engineer
-- 🏅 Kaggle Notebooks Expert
+- 🏅 Kaggle Contributor
 
 ---
 
@@ -34,13 +45,26 @@
 Hey! I'm Roma — still in high school, but that doesn't stop me from building
 pet projects, taking outsource work, and winning olympiads along the way.
 
-I've been writing Python for 3+ years: started with Telegram bots, moved on
-to APIs, and for the past year I've been deep in AI/ML — CV and RecSys are
+I've been writing Python for 4+ years: started with Telegram bots, moved on
+to APIs and backend development, and for the past 2 years I've been deep in AI/ML — CV and agents are
 my current obsessions. Also growing my Kaggle profile bit by bit.
 
 Had a stint as a Test Automation Engineer at ECM-Consulting (Prometheus +
 Grafana) — great experience working on real infra. Now I'm back to competing,
 building, and learning. If you want to collaborate — you're welcome to join)
+
+---
+
+## **Flagship Project**
+
+> ### **[Project name]** · one-line tagline
+>
+> 🚧 Placeholder — write-up coming soon. This slot is reserved for the main
+> project I'm developing right now
+>
+> `Stack` `goes` `here`
+>
+> [Code](#) · [Demo](#) · [Docs](#)
 
 ---
 
@@ -50,17 +74,16 @@ building, and learning. If you want to collaborate — you're welcome to join)
 |--------------------|-----------------------------|-------------------------------------------------------------------------------------------|-------|
 | **Motivation bot** | `Python` `Telebot` `Ollama` | Parse events from google calendar and gives you personal motivation messages based on LLM | [Code](https://github.com/Wertiba/TelegramMotivation) |
 
-
 ---
 
 ## Learning Projects
 
 > Projects built while studying — courses, tutorials, self-driven experiments
 
-| Project                 | Course / Source   | Description                | Links |
-|-------------------------|-------------------|----------------------------|-------|
-| **Deepfake classifier** | [Yandex Lyceum](https://drive.google.com/file/d/1cLDdp0M6r7yH1lqPMDXXFQmyX6yVJiBg/view?usp=sharing) | CNN && ResNET              | [Notebook](https://www.kaggle.com/code/romanrozen/deepfake-classifier) |
-
+| Project                                 | Year | Direction               | Course / Source                                                                                     | Description                                                                                                                       | Links                                                                        |
+|-----------------------------------------|------|-------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| **Deepfake classifier**                 | 2025 | ML: Computer Vision     | [Yandex Lyceum](https://drive.google.com/file/d/1cLDdp0M6r7yH1lqPMDXXFQmyX6yVJiBg/view?usp=sharing) | NN based on ResNet50 that can distinguish generated faces from real ones. F1 score abt 0.888                                      | [Notebook](https://www.kaggle.com/code/romanrozen/deepfake-classifier)       |
+| **Low-resource translation** | 2026 | ML: Machine translation | [DATA DOJO](https://yandex.ru/youngcon/datadojo)                                                                                       | Fine-tune NLLB-200 on 0.5M obj parallel corpus for translate senteences of 5-20 words. Result: BLEU 13.9 - top 23 of 400+ members | [Code](https://github.com/Wertiba/Data-Dojo-2026-Training), [Article (RU)](https://habr.com/ru/articles/1061894/) |
 
 ---
 
@@ -77,19 +100,27 @@ building, and learning. If you want to collaborate — you're welcome to join)
 
 ## Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="36" title="FastAPI"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" title="PyTorch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" title="scikit-learn"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36" title="OpenCV"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" title="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" title="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="36" title="Grafana"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="36" title="Kotlin"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" title="Linux"/>
-</p>
+<div align="center">
+
+**Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv&theme=dark" />
+
+Computer vision · RecSys · deep learning
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,kotlin&theme=dark" />
+
+APIs · relational data · services
+
+**Infrastructure & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,grafana,prometheus,git,linux&theme=dark" />
+
+Monitoring · containers · version control
+
+</div>
 
 ---
 
@@ -105,4 +136,10 @@ building, and learning. If you want to collaborate — you're welcome to join)
 
 <div align="center">
   <sub>reach me → <a href="https://t.me/wertiba">t.me/wertiba</a></sub>
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,25:B91372,50:0B0B2B,75:1E3A5F,100:36CFC9&height=110&section=footer" width="100%"/>
+
 </div>
