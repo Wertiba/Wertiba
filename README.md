@@ -56,18 +56,27 @@ Had a stint as a Test Automation Engineer at ECM-Consulting (Prometheus +
 Grafana) — great experience working on real infra. Now I'm back to competing,
 building, and learning. If you want to collaborate — you're welcome to join)
 
----
+[//]: # (---)
 
-## Flagship Project
+[//]: # ()
+[//]: # (## Flagship Project)
 
-> ### **[Project name]** · one-line tagline
->
-> 🚧 Placeholder — write-up coming soon. This slot is reserved for the main
-> project I'm developing right now
->
-> `Stack` `goes` `here`
->
-> [Code](#) · [Demo](#) · [Docs](#)
+[//]: # ()
+[//]: # (> ### **[Project name]** · one-line tagline)
+
+[//]: # (>)
+
+[//]: # (> 🚧 Placeholder — write-up coming soon. This slot is reserved for the main)
+
+[//]: # (> project I'm developing right now)
+
+[//]: # (>)
+
+[//]: # (> `Stack` `goes` `here`)
+
+[//]: # (>)
+
+[//]: # (> [Code]&#40;#&#41; · [Demo]&#40;#&#41; · [Docs]&#40;#&#41;)
 
 ---
 
@@ -114,7 +123,7 @@ Computer vision · RecSys · Deep learning · Fine-tuning
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,kotlin,spring,redis&theme=dark" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,kotlin,spring,postgres,redis&theme=dark" alt="Backend stack" />
 
 APIs · relational data · caching · services
 
