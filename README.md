@@ -136,12 +136,6 @@ Monitoring · containers · version control · API testing
 
 </div>
 
----
-
-<div align="center">
-  <sub>reach me → <a href="https://t.me/wertiba">t.me/wertiba</a></sub>
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,25:B91372,50:0B0B2B,75:1E3A5F,100:36CFC9&height=110&section=footer" width="100%"/>
