@@ -22,9 +22,10 @@
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@wertiba-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wertiba)
+[![Portfolio](https://img.shields.io/badge/Portfolio-wertiba.github.io-FF6B35?style=flat-square&logo=googlechrome&logoColor=white)](https://wertiba.github.io/Wertiba-Resume-AE/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-romanrozen-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/romanrozen)
 [![Habr](https://img.shields.io/badge/Habr-wertiba-65A3BE?style=flat-square&logo=habr&logoColor=white)](https://habr.com/ru/users/wertiba/)
+[![Telegram](https://img.shields.io/badge/Telegram-@wertiba-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wertiba)
 
 </div>
 
@@ -70,9 +71,20 @@ building, and learning. If you want to collaborate — you're welcome to join)
 
 ## Pet Projects
 
-| Project            | Stack                       | Description                                                                               | Links |
-|--------------------|-----------------------------|-------------------------------------------------------------------------------------------|-------|
-| **Motivation bot** | `Python` `Telebot` `Ollama` | Parse events from google calendar and gives you personal motivation messages based on LLM | [Code](https://github.com/Wertiba/TelegramMotivation) |
+| Project            | Stack                       | Description                                                                                         | Links |
+|--------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|-------|
+| **Motivation bot** | `Python` `Telebot` `Ollama` | Parse events from google calendar and gives you personal motivation messages based on LLM every day | [Code](https://github.com/Wertiba/TelegramMotivation) |
+
+---
+
+## Templates
+
+> Boilerplate / starter repos for quick project bootstrap
+
+| Project              | Year | Stack                  | Description                                          | Links |
+|-----------------------|------|------------------------|------------------------------------------------------|-------|
+| **KotlinFish**        | 2026 | `Kotlin` `Spring boot` | Backend starter template in Kotlin (CRUD + JWT Auth) | [Code](https://github.com/Wertiba/KotlinFish) |
+| **FastAPI-Fish**      | 2026 | `Python` `FastAPI`     | Backend starter template with FastAPI (CRUD)         | [Code](https://github.com/Wertiba/FastAPI-Fish) |
 
 ---
 
