@@ -18,7 +18,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36CFC9,25:1E3A5F,50:0B0B2B,75:B91372,100:FF6B35&height=180&section=header&text=Roma%20Rozen&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Backend%20Dev%20%C2%B7%20ML%20Researcher&descAlignY=52&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=36CFC9&center=true&vCenter=true&width=600&lines=Backend+developer;ML+researcher;Kaggle+Contributor;Still+in+high+school+%E2%80%94+already+shipping+code" alt="typing"/>
+<a href="https://t.me/wertiba">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=36CFC9&center=true&vCenter=true&width=600&lines=Backend+developer;ML+researcher;Kaggle+Contributor;Still+in+high+school+%E2%80%94+already+shipping+code" alt="typing"/>
+</a>
 
 <br/>
 
@@ -34,7 +36,7 @@
 
 - 🎓 Still in high school · already shipping code
 - 💼 Backend developer · ML researcher
-- 🌱 Currently learning **NLP algorithms && agent sequrity**
+- 🌱 Currently learning **NLP algorithms && agent security**
 - 📝 Six months of work at **ECM Consulting** as a test automation engineer
 - 🏅 Kaggle Contributor
 - 🏆 Prize-winner / **absolute winner** of national olympiads · finalist of **international** olympiads — full breakdown in the [portfolio](https://wertiba.github.io/Wertiba-Resume-AE/)
@@ -56,7 +58,7 @@ building, and learning. If you want to collaborate — you're welcome to join)
 
 ---
 
-## **Flagship Project**
+## Flagship Project
 
 > ### **[Project name]** · one-line tagline
 >
@@ -92,11 +94,11 @@ building, and learning. If you want to collaborate — you're welcome to join)
 
 > Projects built while studying — courses, tutorials, self-driven experiments
 
-| Project                      | Year | Direction               | Course / Source                                                                                     | Description                                                                                                                       | Links                                                                                                             |
-|------------------------------|------|-------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| **Deepfake classifier**      | 2025 | ML: Computer Vision     | [Yandex Lyceum](https://drive.google.com/file/d/1cLDdp0M6r7yH1lqPMDXXFQmyX6yVJiBg/view?usp=sharing) | NN based on ResNet50 that can distinguish generated faces from real ones. F1 score abt 0.888                                      | [Notebook](https://www.kaggle.com/code/romanrozen/deepfake-classifier)                                            |
-| **Low-resource translation** | 2026 | ML: Machine translation | [DATA DOJO](https://yandex.ru/youngcon/datadojo)                                                    | Fine-tune NLLB-200 on 0.5M obj parallel corpus for translate senteences of 5-20 words. Result: BLEU 13.9 - top 23 of 400+ members | [Code](https://github.com/Wertiba/Data-Dojo-2026-Training), [Article (RU)](https://habr.com/ru/articles/1061894/) |
-| **Objects counter**          | 2026 | ML: Computer vision     | [HSE&MWS SSDA](https://www.kaggle.com/code/daniilkrasnovvv/hse-mts-summer-school-of-data-analysis-track-a)                                                                                    | Using regression -> mapping instead of classification gives us accuracy 71.743 and absolute 1 prize                               | [Notebook](https://www.kaggle.com/code/daniilkrasnovvv/hse-mts-summer-school-of-data-analysis-track-a)                                                                                                      |
+| Project                      | Year | Direction               | Course / Source                                                                                     | Description                                                                                                                            | Links                                                                                                             |
+|------------------------------|------|-------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Deepfake classifier**      | 2025 | ML: Computer Vision     | [Yandex Lyceum](https://drive.google.com/file/d/1cLDdp0M6r7yH1lqPMDXXFQmyX6yVJiBg/view?usp=sharing) | NN based on ResNet50 that can distinguish generated faces from real ones. F1 score abt 0.888                                           | [Notebook](https://www.kaggle.com/code/romanrozen/deepfake-classifier)                                            |
+| **Low-resource translation** | 2026 | ML: Machine translation | [DATA DOJO](https://yandex.ru/youngcon/datadojo)                                                    | Fine-tune NLLB-200 0.6B on 0.5M texts parallel corpus to translate sentences of 5-20 words. Result: BLEU 13.9 — top 23 of 400+ members | [Code](https://github.com/Wertiba/Data-Dojo-2026-Training) · [Article (RU)](https://habr.com/ru/articles/1061894/) |
+| **Objects counter**          | 2026 | ML: Computer vision     | [HSE&MWS SSDA](https://www.kaggle.com/code/daniilkrasnovvv/hse-mts-summer-school-of-data-analysis-track-a)                                                                                    | Using regression instead of classification gives accuracy 71.743 and absolute 1st place                                                | [Notebook](https://www.kaggle.com/code/daniilkrasnovvv/hse-mts-summer-school-of-data-analysis-track-a)                                                                                                      |
 
 ---
 
