@@ -25,7 +25,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-wertiba.github.io-FF6B35?style=flat-square&logo=googlechrome&logoColor=white)](https://wertiba.github.io/Wertiba-Resume-AE/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-romanrozen-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/romanrozen)
 [![Habr](https://img.shields.io/badge/Habr-wertiba-65A3BE?style=flat-square&logo=habr&logoColor=white)](https://habr.com/ru/users/wertiba/)
-[![Telegram](https://img.shields.io/badge/Telegram-@wertiba-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wertiba)
 
 </div>
 
@@ -38,6 +37,7 @@
 - 🌱 Currently learning **NLP algorithms && agent sequrity**
 - 📝 Six months of work at **ECM Consulting** as a test automation engineer
 - 🏅 Kaggle Contributor
+- 🏆 Prize-winner / **absolute winner** of national olympiads · finalist of **international** olympiads — full breakdown in the [portfolio](https://wertiba.github.io/Wertiba-Resume-AE/)
 
 ---
 
@@ -92,21 +92,11 @@ building, and learning. If you want to collaborate — you're welcome to join)
 
 > Projects built while studying — courses, tutorials, self-driven experiments
 
-| Project                                 | Year | Direction               | Course / Source                                                                                     | Description                                                                                                                       | Links                                                                        |
-|-----------------------------------------|------|-------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| **Deepfake classifier**                 | 2025 | ML: Computer Vision     | [Yandex Lyceum](https://drive.google.com/file/d/1cLDdp0M6r7yH1lqPMDXXFQmyX6yVJiBg/view?usp=sharing) | NN based on ResNet50 that can distinguish generated faces from real ones. F1 score abt 0.888                                      | [Notebook](https://www.kaggle.com/code/romanrozen/deepfake-classifier)       |
-| **Low-resource translation** | 2026 | ML: Machine translation | [DATA DOJO](https://yandex.ru/youngcon/datadojo)                                                                                       | Fine-tune NLLB-200 on 0.5M obj parallel corpus for translate senteences of 5-20 words. Result: BLEU 13.9 - top 23 of 400+ members | [Code](https://github.com/Wertiba/Data-Dojo-2026-Training), [Article (RU)](https://habr.com/ru/articles/1061894/) |
-
----
-
-## Achievements
-
-| Year | Event                                   | Result               | Artifacts |
-|------|-----------------------------------------|----------------------|-----------|
-| 2026 | **DANO spring SPb hackathon**           | 🥇 Ablosut 1st place | [Code](https://www.kaggle.com/code/romanrozen/dano-hackathon-top-1-solution) · [Certificate](https://drive.google.com/file/d/1XWZV3PbJL9bGodDaA0WlD3gAJ1-SsZ9-/view?usp=sharing) |
-| 2026 | **NTO "Big data and machine learning"** | 🏆 Prizer            | [Certificate](https://drive.google.com/file/d/1ozrvpvBBf5gh0vZXu5XRnI0VNJXQ6Ab3/view?usp=sharing) |
-| 2026 | **AI Business SPb hackathon**           | 🥉 3 Place by case   | [Code](https://github.com/Wertiba/AI-Business-SPB-Hackathon-Backend) · [Certificate](https://drive.google.com/file/d/1fp_HLJ1iUOyWtAY69ypcLMZJKL_k2Nm_/view?usp=sharing) |
-| 2026 | **International SWE olympiad PROD**     | Finalist             | [Code](https://github.com/Wertiba/Prod-Individual-track-2026)|
+| Project                      | Year | Direction               | Course / Source                                                                                     | Description                                                                                                                       | Links                                                                                                             |
+|------------------------------|------|-------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Deepfake classifier**      | 2025 | ML: Computer Vision     | [Yandex Lyceum](https://drive.google.com/file/d/1cLDdp0M6r7yH1lqPMDXXFQmyX6yVJiBg/view?usp=sharing) | NN based on ResNet50 that can distinguish generated faces from real ones. F1 score abt 0.888                                      | [Notebook](https://www.kaggle.com/code/romanrozen/deepfake-classifier)                                            |
+| **Low-resource translation** | 2026 | ML: Machine translation | [DATA DOJO](https://yandex.ru/youngcon/datadojo)                                                    | Fine-tune NLLB-200 on 0.5M obj parallel corpus for translate senteences of 5-20 words. Result: BLEU 13.9 - top 23 of 400+ members | [Code](https://github.com/Wertiba/Data-Dojo-2026-Training), [Article (RU)](https://habr.com/ru/articles/1061894/) |
+| **Objects counter**          | 2026 | ML: Computer vision     | [HSE&MWS SSDA](https://www.kaggle.com/code/daniilkrasnovvv/hse-mts-summer-school-of-data-analysis-track-a)                                                                                    | Using regression -> mapping instead of classification gives us accuracy 71.743 and absolute 1 prize                               | [Notebook](https://www.kaggle.com/code/daniilkrasnovvv/hse-mts-summer-school-of-data-analysis-track-a)                                                                                                      |
 
 ---
 
@@ -118,19 +108,19 @@ building, and learning. If you want to collaborate — you're welcome to join)
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv&theme=dark" />
 
-Computer vision · RecSys · deep learning
+Computer vision · RecSys · Deep learning · Fine-tuning
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,kotlin&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,kotlin,spring,redis&theme=dark" alt="Backend stack" />
 
-APIs · relational data · services
+APIs · relational data · caching · services
 
 **Infrastructure & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,grafana,prometheus,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,grafana,prometheus,git,postman&theme=dark" alt="Infrastructure and tools stack" />
 
-Monitoring · containers · version control
+Monitoring · containers · version control · API testing
 
 </div>
 
